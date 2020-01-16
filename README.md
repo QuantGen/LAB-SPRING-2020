@@ -14,12 +14,12 @@
 | 2/7 |  |  |  |
 | 2/14 |  |  |  |
 | 2/21 |  |  |  |
-| 2/28 |  |  |  |
+| 2/28 | Science on the edge? |  |  |
 | Spring Break |
 | 3/13 |  |  |  |
 | 3/20 |  |  |  |
 | 3/27 |  |  |  |
 | 4/3 |  |  |  |
-| 4/10 |  |  |  |
+| 4/10 | Alexa Lupi | Identifying LD Regions of Pleiotropy between Chronic Kidney Disease and Hyperuricemia using UKBB |  |
 | 4/17 |  |  |  |
 | 4/24 |  |  |  |
