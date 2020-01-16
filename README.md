@@ -8,7 +8,8 @@
 
 | Date           | Presenter(s)     |  Topic(s)        |  Materials    |
 | -------------  | ---------------- | ---------------- | ------------- |
-| 1/24 |  |  |  |
+| 1/17 | Gustavo de los Campos | Introduction |  https://www.nature.com/articles/nmeth.1439#Sec2 |
+| 1/24 | SCIENCE ON THE EDGE DAY: Dr. Mulle |  |  |
 | 1/31 | Todd Lucas |  |  |
 | 2/7 |  |  |  |
 | 2/14 |  |  |  |
