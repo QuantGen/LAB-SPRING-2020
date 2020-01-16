@@ -14,7 +14,7 @@
 | 2/7 |  |  |  |
 | 2/14 |  |  |  |
 | 2/21 |  |  |  |
-| 2/28 | Science on the edge? |  |  |
+| 2/28 | Science at the edge? |  |  |
 | Spring Break |
 | 3/13 |  |  |  |
 | 3/20 |  |  |  |
