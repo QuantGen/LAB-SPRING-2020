@@ -16,7 +16,7 @@
 | 2/21 |  |  |  |
 | 2/28 | Science at the edge? |  |  |
 | Spring Break |
-| 3/13 |  |  |  |
+| 3/13 | Laura Zingaretti |  |  |
 | 3/20 |  |  |  |
 | 3/27 |  |  |  |
 | 4/3 |  |  |  |
