@@ -29,4 +29,4 @@
 
 If you have a paper you would like to present, use that one, otherwise feel free to choose one from this list
 
-* [Cell type–specific gene expression differences in complex tissues. Shen-Orr et al.](https://www.nature.com/articles/nmeth.1439#Sec2)
+* [Cell type–specific gene expression differences in complex tissues.](https://www.nature.com/articles/nmeth.1439#Sec2) Shen-Orr et al.
