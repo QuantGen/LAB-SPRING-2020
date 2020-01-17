@@ -8,7 +8,7 @@
 
 | Date           | Presenter(s)     |  Topic(s)        |  Materials    |
 | -------------  | ---------------- | ---------------- | ------------- |
-| 1/17 | Gustavo de los Campos | Introduction |  https://www.nature.com/articles/nmeth.1439#Sec2 |
+| 1/17 | Gustavo de los Campos | Introduction |  [link](https://www.nature.com/articles/nmeth.1439#Sec2) |
 | 1/24 | SCIENCE AT THE EDGE DAY | Dr. Mulle (Human Genetics) | 11:30 in 1400 Biomedical & Physical Sciences Building |
 | 1/31 | Todd Lucas |  |  |
 | 2/7 |  |  |  |
@@ -23,3 +23,10 @@
 | 4/10 | Alexa Lupi | Identifying LD Regions of Pleiotropy between Chronic Kidney Disease and Hyperuricemia using UKBB |  |
 | 4/17 |  |  |  |
 | 4/24 |  |  |  |
+
+
+### Ideas for articles
+
+If you have a paper you would like to present, use that one, otherwise feel free to choose one from this list
+
+* [Cell type–specific gene expression differences in complex tissues. Shen-Orr et al.](https://www.nature.com/articles/nmeth.1439#Sec2)
