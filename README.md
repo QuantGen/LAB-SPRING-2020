@@ -22,7 +22,7 @@
 | 4/3 |  |  |  |
 | 4/10 | Alexa Lupi | Identifying LD Regions of Pleiotropy between Chronic Kidney Disease and Hyperuricemia using UKBB |  |
 | 4/17 |  |  |  |
-| 4/24 |  |  |  |
+| 4/24 | Fernando Aguate | Nonlinear Mixed Effects Models for Repeated Measures Data |  |
 
 
 ### Ideas for articles
