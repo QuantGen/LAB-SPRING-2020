@@ -21,7 +21,7 @@
 | 3/27 | Harold Wu |  |  |
 | 4/3 |  Filipe Couto|  |  |
 | 4/10 | Alexa Lupi | Identifying LD Regions of Pleiotropy between Chronic Kidney Disease and Hyperuricemia using UKBB |  |
-| 4/17 |  |  |  |
+| 4/17 | Paulino Perez |  |  |
 | 4/24 |  |  |  |
 
 
