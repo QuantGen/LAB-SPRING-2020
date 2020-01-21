@@ -17,7 +17,7 @@
 | 2/28 | Science at the edge? |  |  |
 | Spring Break |
 | 3/13 | Laura Zingaretti |  |  |
-| 3/20 |  |  |  |
+| 3/20 | Agustin Gonzalez Reymundez |  |  |
 | 3/27 | Harold Wu |  |  |
 | 4/3 |  Filipe Couto|  |  |
 | 4/10 | Alexa Lupi | Identifying LD Regions of Pleiotropy between Chronic Kidney Disease and Hyperuricemia using UKBB |  |
