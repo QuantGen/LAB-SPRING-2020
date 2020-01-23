@@ -14,13 +14,13 @@
 | 2/7 |  |  |  |
 | 2/14 |  |  |  |
 | 2/21 |  |  |  |
-| 2/28 | Science at the edge? |  |  |
+| 2/28 | Science at the edge |  |  |
 | Spring Break |
 | 3/13 | Laura Zingaretti |  |  |
 | 3/20 | Agustin Gonzalez Reymundez |  |  |
 | 3/27 | Harold Wu |  |  |
 | 4/3 |  Filipe Couto|  |  |
-| 4/10 | Alexa Lupi | Identifying LD Regions of Pleiotropy between Chronic Kidney Disease and Hyperuricemia using UKBB |  |
+| 4/10 | Alexa Lupi |  |  |
 | 4/17 | Paulino Perez |  |  |
 | 4/24 | Fernando Aguate | Nonlinear Mixed Effects Models for Repeated Measures Data |  |
 
