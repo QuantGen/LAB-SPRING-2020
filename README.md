@@ -11,12 +11,12 @@
 | 1/17 | Gustavo de los Campos | Introduction |  [link](https://www.nature.com/articles/nmeth.1439#Sec2) |
 | 1/24 | SCIENCE AT THE EDGE DAY | Dr. Mulle (Human Genetics) | 11:30 in 1400 Biomedical & Physical Sciences Building |
 | 1/31 | Todd Lucas |  |  |
-| 2/7 |  |  |  |
-| 2/14 |  |  |  |
+| 2/7 |  Miguel Pérez Enciso |  |  |
+| 2/14 | Laura Zingaretti  |  |  |
 | 2/21 |  |  |  |
 | 2/28 | Science at the edge |  |  |
 | Spring Break |
-| 3/13 | Laura Zingaretti |  |  |
+| 3/13 |  |  |  |
 | 3/20 | Agustin Gonzalez Reymundez |  |  |
 | 3/27 | Harold Wu |  |  |
 | 4/3 |  Filipe Couto|  |  |
