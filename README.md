@@ -38,5 +38,5 @@ If you have a paper you would like to present, use that one, otherwise feel free
 * [Learning representations of microbe–metabolite interactions](https://www.nature.com/articles/s41592-019-0616-3) Morton et al.
 * [UK Biobank Whole-Exome Sequence Binary Phenome Analysis with Robust Region-Based Rare-Variant Test](https://www.cell.com/ajhg/fulltext/S0002-9297(19)30433-1) Zhao et al.
 * [Genomic Medicine Year in Review: 2019](https://www.cell.com/ajhg/fulltext/S0002-9297(19)30427-6) Manolio et al.
-* [Making the Most of Clumping and Thresholding for Polygenic Scores](https://www.cell.com/ajhg/fulltext/S0002-9297(19)30422-7) Prive
+* [Making the Most of Clumping and Thresholding for Polygenic Scores](https://www.cell.com/ajhg/fulltext/S0002-9297(19)30422-7) Prive et al.
 
