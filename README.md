@@ -13,7 +13,7 @@
 | 1/31 | Todd Lucas |  |  |
 | 2/7 | Miguel Perez Enciso |  |  |
 | 2/14 | Laura Zingaretti |  |  |
-| 2/21 |  |  |  |
+| 2/21 | Marco Lopez-Cruz | Tensor Graphical LASSO (TeraLASSO) |  |
 | 2/28 |  |  |  |
 | Spring Break |
 | 3/13 |  |  |  |
