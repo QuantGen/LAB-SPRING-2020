@@ -28,7 +28,7 @@
 ### Ideas for articles
 
 If you have a paper you would like to present, use that one, otherwise feel free to choose one from this list
-
+* [Bayesian Graphical Regression (JASA, 2019)](https://amstat.tandfonline.com/doi/full/10.1080/01621459.2017.1389739#.XjBHKRdJlUM)
 * [Cell type–specific gene expression differences in complex tissues.](https://www.nature.com/articles/nmeth.1439#Sec2) Shen-Orr et al.
 * [Wavelet-Based Genetic Association Analysis of Functional Phenotypes Arising From High-Throughput Sequencing Assays.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5795621/) Shim et al.
 * [False discovery rates: a new deal.](https://academic.oup.com/biostatistics/article/18/2/275/2557030) Stephens
