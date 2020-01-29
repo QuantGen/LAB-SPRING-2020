@@ -10,7 +10,7 @@
 | -------------  | ---------------- | ---------------- | ------------- |
 | 1/17 | Gustavo de los Campos | Introduction |  [link](https://www.nature.com/articles/nmeth.1439#Sec2) |
 | 1/24 | SCIENCE AT THE EDGE DAY | Dr. Mulle (Human Genetics) | 11:30 in 1400 Biomedical & Physical Sciences Building |
-| 1/31 | Todd Lucas |  |  |
+| 1/31 | Todd Lucas | Racial disparities in kidney transplants | [Paper 1](http://europepmc.org/article/MED/26952001#free-full-text), [Paper 2](https://reader.elsevier.com/reader/sd/pii/S0955470X02800040?token=F35CD9DC0DBAED12AC0AACD40C8F63DD7F7CAD97B07B65F83D12676984DF1B779CA8EB951FD5A6D072765E78332E8D47), [Paper 3](https://onlinelibrary-wiley-com.proxy2.cl.msu.edu/doi/pdfdirect/10.1111/ajt.15526) |
 | 2/7 | Miguel Perez Enciso |  |  |
 | 2/14 | Laura Zingaretti |  |  |
 | 2/21 | Marco Lopez-Cruz | Tensor Graphical LASSO (TeraLASSO) |  |
