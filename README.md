@@ -22,7 +22,7 @@
 | 4/3 |  Filipe Couto| Wavelet-Based Genetic Association Analysis of Functional Phenotypes Arising From High-Throughput Sequencing Assays |  |
 | 4/10 | Alexa Lupi |  |  |
 | 4/17 | Paulino Perez |  |  |
-| 4/24 | Fernando Aguate | Nonlinear Mixed Effects Models for Repeated Measures Data | [Paper 1](ftp://maia-2.biostat.wisc.edu/pub/lindstrom/papers/biometrics.1990.pdf) |
+| 4/24 | Fernando Aguate | Nonlinear Mixed Effects Models for Repeated Measures Data | [Paper 1](ftp://maia-2.biostat.wisc.edu/pub/lindstrom/papers) |
 
 
 ### Ideas for articles
