@@ -13,9 +13,7 @@
 | 1/31 | Todd Lucas | General Introduction; Racial disparities in kidney transplants | [Paper 1](http://europepmc.org/article/MED/26952001#free-full-text), [Paper 2](https://reader.elsevier.com/reader/sd/pii/S0955470X02800040?token=F35CD9DC0DBAED12AC0AACD40C8F63DD7F7CAD97B07B65F83D12676984DF1B779CA8EB951FD5A6D072765E78332E8D47), [Paper 3](https://onlinelibrary-wiley-com.proxy2.cl.msu.edu/doi/pdfdirect/10.1111/ajt.15526) |
 | 2/7 | Miguel Perez Enciso | Microbiability and methane emissions in dairy cows | [Difford et al.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007580) |
 | 2/14 | Laura Zingaretti | Deep learning shallow for genomic prediction? | [Zingaretti et al.](https://www.frontiersin.org/articles/10.3389/fpls.2020.00025/full) |
-| 2/21 | Marco Lopez-Cruz | Tensor Graphical LASSO (TeraLASSO) |  |
-| 2/28 |  |  |  |
-| Spring Break |
+| 2/28 | Marco Lopez-Cruz | Tensor Graphical LASSO (TeraLASSO) |  |
 | 3/13 |  |  |  |
 | 3/20 | Agustin Gonzalez Reymundez |  |  |
 | 3/27 | Harold Wu | Tests of Hardy–Weinberg Equilibrium to Structured Populations | [Paper 1](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.20617), [Paper 2](https://www.genetics.org/content/213/3/759) |
