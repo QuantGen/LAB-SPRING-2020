@@ -15,7 +15,7 @@
 | 2/14 | Laura Zingaretti | Deep learning shallow for genomic prediction? | [Zingaretti et al.](https://www.frontiersin.org/articles/10.3389/fpls.2020.00025/full) |
 | 2/28 | Marco Lopez-Cruz | Tensor Graphical LASSO (TeraLASSO) |  |
 | 3/13 |  |  |  |
-| 3/20 | Agustin Gonzalez Reymundez |  |  |
+| 3/20 | Agustin Gonzalez Reymundez | Cancer detection via multi-analyte plasma biomarkers | [Cohen et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6080308/pdf/nihms982921.pdf) |
 | 3/27 | Harold Wu | Tests of Hardy–Weinberg Equilibrium to Structured Populations | [Paper 1](https://www.genetics.org/content/213/3/759) |
 | 4/3 |  Filipe Couto| Wavelet-Based Genetic Association Analysis of Functional Phenotypes Arising From High-Throughput Sequencing Assays |  |
 | 4/10 | Alexa Lupi |  |  |
