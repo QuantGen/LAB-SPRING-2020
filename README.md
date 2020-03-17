@@ -16,7 +16,7 @@
 | 2/28 | Marco Lopez-Cruz | Tensor Graphical LASSO (TeraLASSO) |  |
 | 3/13 |  |  |  |
 | 3/20 | Agustin Gonzalez Reymundez |  |  |
-| 3/27 | Harold Wu | Tests of Hardy–Weinberg Equilibrium to Structured Populations | [Paper 1](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.20617), [Paper 2](https://www.genetics.org/content/213/3/759) |
+| 3/27 | Harold Wu | Tests of Hardy–Weinberg Equilibrium to Structured Populations | [Paper 1](https://www.genetics.org/content/213/3/759) |
 | 4/3 |  Filipe Couto| Wavelet-Based Genetic Association Analysis of Functional Phenotypes Arising From High-Throughput Sequencing Assays |  |
 | 4/10 | Alexa Lupi |  |  |
 | 4/17 | Paulino Perez |  |  |
