@@ -19,7 +19,7 @@
 | 3/27 | Harold Wu | Tests of Hardy–Weinberg Equilibrium to Structured Populations | [Paper 1](https://www.genetics.org/content/213/3/759) |
 | 4/3 |  Filipe Couto| Wavelet-Based Genetic Association Analysis of Functional Phenotypes Arising From High-Throughput Sequencing Assays |  |
 | 4/10 | Alexa Lupi |  |  |
-| 4/17 | Paulino Perez |  |  |
+| 4/17 | Paulino Perez | Fast parallelized sampling of Bayesian regression models for whole-genome prediction | https://link.springer.com/article/10.1186/s12711-020-00533-x |
 | 4/24 | Fernando Aguate | Nonlinear Mixed Effects Models for Repeated Measures Data | [Paper 1](https://www.jstor.org/stable/2532087?seq=1) |
 
 
